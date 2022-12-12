@@ -4,7 +4,7 @@
 
 <!-- - 🔭 I’m currently working on ... -->
 - 📘 Estudante de Análise e Desenvolvimento de Sistemas em SPTECH SCHOOl
-- ⚙ Trabalhando para ser um desenvolvedor full-stack
+- ⚙ Estudando para ser um desenvolvedor full-stack
 - 📫 contato: mresendesilva2022@hotmail.com
 - 💬 "Minha inigualável perspicácia, unida a minha, sem igual, infagatibilidade, me fazem ser o oponente mais temido em qualquer domínio do esforço humano"
 - 📑Ténico em eletrônica / Fluente em inglês / Futuro desenvolvedor
