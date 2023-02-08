@@ -6,7 +6,7 @@
 
 <!-- - 🔭 I’m currently working on ... -->
 - 📘 Estudante de Análise e Desenvolvimento de Sistemas em SPTECH SCHOOl
-- ⚙ Estudando para ser um desenvolvedor full-stack
+- ⚙ Estudando para ser um desenvolvedor back-end
 - 📑Ténico em eletrônica / Inglês avançado / Futuro desenvolvedor
 - 📫 contato: mresendesilva2022@hotmail.com
 
