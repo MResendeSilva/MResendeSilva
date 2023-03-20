@@ -5,7 +5,7 @@
 ### Sobre mim 👋
 
 <!-- - 🔭 I’m currently working on ... -->
-- 📘 Estudante de Análise e Desenvolvimento de Sistemas em SPTECH SCHOOl
+- 📘 Estudante de Análise e Desenvolvimento de Sistemas em SPTECH SCHOOL
 - ⚙ Estudando para ser um desenvolvedor back-end
 - 📑Ténico em eletrônica / Inglês avançado / Futuro desenvolvedor
 - 📫 contato: mresendesilva2022@hotmail.com
